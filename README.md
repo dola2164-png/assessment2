@@ -4,7 +4,6 @@ FloraVision is a modern, responsive landing page for a plant e-commerce brand. I
 
 **Live demo:** [https://tubular-beignet-561a2e.netlify.app/]((https://tubular-beignet-561a2e.netlify.app/))
 
-![FloraVision preview](./src/imports/Home/fa0765984e44f85e1a04562f820f1492949a1257.png)
 
 ## Features
 
